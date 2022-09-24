@@ -45,7 +45,7 @@ class Result extends StatelessWidget {
               textAlign: TextAlign.center),
               style: ButtonStyle(
               backgroundColor:
-                  MaterialStateProperty.all(Color.fromARGB(255, 209, 38, 149)),
+                  MaterialStateProperty.all(Color.fromARGB(245, 209, 38, 149)),
               foregroundColor: 
                   MaterialStateProperty.all(Color.fromARGB(255, 255, 255, 255)),
             ),)
